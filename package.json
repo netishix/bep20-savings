@@ -1,0 +1,26 @@
+{
+  "name": "bep20-savings",
+  "version": "1.0.0",
+  "description": "A BEP20 smart contract to manage an emergency fund over time.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netishix/bep20-savings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netishix/bep20-savings/issues"
+  },
+  "homepage": "https://github.com/netishix/bep20-savings#readme"
+}
